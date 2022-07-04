@@ -7,3 +7,4 @@ print ("new line in branch-master")
 print ("new line igf branch-1")
 print ("new line in master only")
 >>>>>>> new_branch
+abcd
